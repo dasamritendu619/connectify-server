@@ -129,7 +129,7 @@ const sendMail = async function (mailType, email, fullName, OTP) {
                       </tr>
                       <tr>
                         <td style="padding: 0 0 16px 0; font-size: 14px; line-height: 150%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">
-                          If you need some help and feel any problem contact us on our support team:<a href="mailto: sharelearner2024@gmail.com">support@gmail.com</a>
+                          If you need some help and feel any problem contact us on our support team:<a href="mailto: connectify202@gmail.com">support@gmail.com</a>
 
                         </td>
                       </tr>
@@ -315,7 +315,7 @@ const sendMail = async function (mailType, email, fullName, OTP) {
 If you are not request to reset your paasword, please ignore this mail.
 <br>
 <br>
-                          If you need some help and feel any problem contact us on our support team:<a href="mailto: sharelearner2024@gmail.com">support@gmail.com</a>
+                          If you need some help and feel any problem contact us on our support team:<a href="mailto: connectify2024@gmail.com">support@gmail.com</a>
 
                         </td>
                       </tr>
@@ -489,7 +489,7 @@ If you are not request to reset your paasword, please ignore this mail.
                         </td>
                       </tr>
                       <tr>
-                        <td style="padding: 0 0 16px 0; font-size: 14px; line-height: 150%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">                          If you need some help and feel any problem contact us on our support team:<a href="mailto: sharelearner2024@gmail.com">support@gmail.com</a>
+                        <td style="padding: 0 0 16px 0; font-size: 14px; line-height: 150%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">                          If you need some help and feel any problem contact us on our support team:<a href="mailto: connectify2024@gmail.com">support@gmail.com</a>
 
                         </td>
                       </tr>
@@ -596,7 +596,7 @@ If you are not request to reset your paasword, please ignore this mail.
                       </tr>
                       <tr>
                         <td style="padding: 0 0 16px 0; font-size: 14px; line-height: 150%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">
-                          If you need some help and feel any problem contact us on our support team:<a href="mailto: sharelearner2024@gmail.com">support@gmail.com</a>
+                          If you need some help and feel any problem contact us on our support team:<a href="mailto: connectify2024@gmail.com">support@gmail.com</a>
 
                         </td>
                       </tr>
@@ -739,7 +739,7 @@ If you are not request to reset your paasword, please ignore this mail.
 If you are not request to reset your email, please ignore this mail.
 <br>
 <br>
-                          If you need some help and feel any problem contact us on our support team:<a href="mailto: sharelearner2024@gmail.com">support@gmail.com</a>
+                          If you need some help and feel any problem contact us on our support team:<a href="mailto: connectify2024@gmail.com">support@gmail.com</a>
 
                         </td>
                       </tr>
@@ -798,7 +798,7 @@ If you are not request to reset your email, please ignore this mail.
   }
 
   // const { data, error } = await resend.emails.send({
-  //   from: 'sharelearner <onboarding@resend.dev>',
+  //   from: 'connectify <onboarding@resend.dev>',
   //   to: [email],
   //   subject: subject,
   //   html: html,

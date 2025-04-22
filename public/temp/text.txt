@@ -26,7 +26,7 @@ imag responce
 
 {
   asset_id: '36252afdcc12e3b165dbad2a535f4e60',
-  public_id: 'sharelearner/up54wqpypnnhzgboqajc',
+  public_id: 'connectify/up54wqpypnnhzgboqajc',
   version: 1721382531,
   version_id: '5124cdc4d56726152cc50e78041387ef',
   signature: 'e953f6de325f64b652c6af23822f965abd476d2a',
@@ -41,10 +41,10 @@ imag responce
   type: 'upload',
   etag: 'fa62a3bddfaad419e4fb27079b0d20ef',
   placeholder: false,
-  url: 'http://res.cloudinary.com/dqufodszt/video/upload/v1721382531/sharelearner/up54wqpypnnhzgboqajc.mp4',    
-  secure_url: 'https://res.cloudinary.com/dqufodszt/video/upload/v1721382531/sharelearner/up54wqpypnnhzgboqajc.mp4',
-  playback_url: 'https://res.cloudinary.com/dqufodszt/video/upload/sp_auto/v1721382531/sharelearner/up54wqpypnnhzgboqajc.m3u8',
-  folder: 'sharelearner',
+  url: 'http://res.cloudinary.com/dqufodszt/video/upload/v1721382531/connectify/up54wqpypnnhzgboqajc.mp4',    
+  secure_url: 'https://res.cloudinary.com/dqufodszt/video/upload/v1721382531/connectify/up54wqpypnnhzgboqajc.mp4',
+  playback_url: 'https://res.cloudinary.com/dqufodszt/video/upload/sp_auto/v1721382531/connectify/up54wqpypnnhzgboqajc.m3u8',
+  folder: 'connectify',
   audio: {
     codec: 'aac',
     bit_rate: '128016',

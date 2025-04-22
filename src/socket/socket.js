@@ -8,7 +8,7 @@ const server = http.createServer(app);
 
 const io = new Server(server,{
     cors:{
-        origin:['https://sharelearner.vercel.app'],
+        origin:['https://connectify.vercel.app'],
         methods:['GET','POST'],
     },
 })

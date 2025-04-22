@@ -1,6 +1,6 @@
 # Share Learner
 
-![ sharelearner](https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_c1nwzt.png)
+![ connectify](https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_c1nwzt.png)
 
 It is an online platform where students can use to capture their work-based experiences and share these learning experiences with other students through text, photos, or videos. The focus should be to develop a platform that allows students to share their work experiences and projects with other younger students.
 
@@ -60,14 +60,14 @@ This project is made with nodejs and mongodb. so if you want to run this project
 2. To clone this project in your local system you first create a folder and then open that folder in your terminal and then run the below command.
 
 ```bash
-git clone https://github.com/dasamritendu619/sharelearner-server.git
+git clone https://github.com/dasamritendu619/connectify-server.git
 ```
 before running this command make sure that you have git installed in your local system.
 
 3. move to the project directory by running the below command.
     
     ```bash
-    cd sharelearner-server
+    cd connectify-server
     ```
 4. Now run the below command to install all the dependencies.
 
@@ -112,12 +112,12 @@ before running this command make sure that you have git installed in your local 
 2. Clone the repository by running the below command.
 
     ```bash
-    git clone https://github.com/dasamritendu619/sharelearner-server.git
+    git clone https://github.com/dasamritendu619/connectify-server.git
     ```
 3. Move to the cloned directory
 
     ```bash
-    cd sharelearner-server
+    cd connectify-server
     ```
 4. Now make changes in the project and then push the changes to your repository.
 

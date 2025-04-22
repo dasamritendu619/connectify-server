@@ -1,4 +1,4 @@
-const DB_NAME = 'sharelearner';
+const DB_NAME = 'connectify';
 const PORT = process.env.PORT || 5000;
 const DB_URL = process.env.MONGO_URI;
 const CLOUDINARY_CLOUD_NAME = process.env.CLOUDINARY_CLOUD_NAME;
@@ -9,7 +9,7 @@ const DEFAULT_AVATAR = 'https://res.cloudinary.com/dqufodszt/image/upload/v17157
 const DEFAULT_COVER_PHOTO= 'https://res.cloudinary.com/dqufodszt/image/upload/v1719900787/CM-hero-bg_2x_rtcdou.jpg';
 const DEFAULT_GROUP_ICON = 'https://res.cloudinary.com/dqufodszt/image/upload/v1719901224/image_qg6trs.png'; 
 const DEFAULT_GROUP_BANNER='https://res.cloudinary.com/dqufodszt/image/upload/v1719900521/download_fqyypb.jpg';
-const SHARELEARNER_LOGO = 'https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png'
+const CONNECTIFY_LOGO = 'https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png'
 
 
 export { 
@@ -23,5 +23,5 @@ export {
     DEFAULT_COVER_PHOTO,
     DEFAULT_GROUP_ICON,
     DEFAULT_GROUP_BANNER,
-    SHARELEARNER_LOGO,
+    CONNECTIFY_LOGO,
 };
