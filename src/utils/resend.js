@@ -19,7 +19,7 @@ const sendMail = async function (mailType, email, fullName, OTP) {
   let subject, html;
   switch (mailType) {
     case "welcomeUser":
-      subject = "Welcome to share learner",
+      subject = "Welcome to Connectify",
         html = `
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -99,7 +99,7 @@ const sendMail = async function (mailType, email, fullName, OTP) {
 <img  style='width:90px; text-align: center; border-radius: 50%;'src='https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png' >
               <tr>
                 <td style="padding:8px 0 30px 0; text-align: center; font-size: 14px; color: #4C83EE;">
-                  SHARE LEARNER
+                  CONNECTIFY
                 </td>
               </tr>
               <tr>
@@ -113,7 +113,7 @@ const sendMail = async function (mailType, email, fullName, OTP) {
                       </tr>
                       <tr>
                         <td style="padding: 0 0 10px 0; font-size: 14px; line-height: 150%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">
-                          Thanks for choosing <b> share learner.</b> We are happy to see you on Dashboard.
+                          Thanks for choosing <b> connectify.</b> We are happy to see you on Dashboard.
                           Ready to level up your communication skills and increase your connection
                         </td>
                       </tr>
@@ -280,7 +280,7 @@ const sendMail = async function (mailType, email, fullName, OTP) {
 <img  style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png' >
               <tr>
                 <td style="padding:8px 0 30px 0; text-align: center; font-size: 14px; color: #4C83EE;">
-                  SHARE LEARNER
+                  CONNECTIFY
                 </td>
               </tr>
               <tr>
@@ -294,9 +294,9 @@ const sendMail = async function (mailType, email, fullName, OTP) {
                       </tr>
                       <tr>
                         <td style="padding: 0 0 10px 0; font-size: 14px; line-height: 150%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">
-                          Thanks for choosing <b> share learner.</b>
+                          Thanks for choosing <b> connectify.</b>
                           <br>
-                          <br> We received a request to reset your password for your share learner account. 
+                          <br> We received a request to reset your password for your connectify account. 
                         </td>
                       </tr>
                       <tr>
@@ -367,7 +367,7 @@ If you are not request to reset your paasword, please ignore this mail.
    `
       break;
     case "login_account":
-      subject = "Login into share learner";
+      subject = "Login into connectify";
       html = `
      <!-- Change values in the template and pass { {variables} } with API call -->
 <!-- Feel free to adjust it to your needs and delete all these comments-->
@@ -457,7 +457,7 @@ If you are not request to reset your paasword, please ignore this mail.
 <img  style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png' >
               <tr>
                 <td style="padding:8px 0 30px 0; text-align: center; font-size: 14px; color: #4C83EE;">
-                  SHARE LEARNER
+                  CONNECTIFY
                 </td>
               </tr>
               <tr>
@@ -471,7 +471,7 @@ If you are not request to reset your paasword, please ignore this mail.
                       </tr>
                       <tr>
                         <td style="padding: 0 0 10px 0; font-size: 14px; line-height: 150%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">
-                          Thanks for choosing <b> share learner.</b>
+                          Thanks for choosing <b> connectify.</b>
                           <br>
                           <br>
      You are almost done !                     <br>  
@@ -542,7 +542,7 @@ If you are not request to reset your paasword, please ignore this mail.
      `
      break;
     case "changeEmail":
-        subject=" change  your email for your Share Learner account";
+        subject=" change  your email for your Connectify account";
         html=`
           <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -580,7 +580,7 @@ If you are not request to reset your paasword, please ignore this mail.
                       </tr>
                       <tr>
                         <td style="padding: 0 0 10px 0; font-size: 14px; line-height: 150%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">
-                          Thanks for choosing <b> share learner.</b> We are happy to see you on Dashboard.
+                          Thanks for choosing <b> connectify.</b> We are happy to see you on Dashboard.
                           Ready to level up your communication skills and increase your connection
                         </td>
                       </tr>
@@ -707,7 +707,7 @@ If you are not request to reset your paasword, please ignore this mail.
 <img style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png'>
               <tr>
                 <td style="padding:8px 0 30px 0; text-align: center; font-size: 14px; color: #4C83EE;">
-                  SHARE LEARNER
+                  CONNECTIFY
                 </td>
             <tr>
                       </tr>
@@ -722,9 +722,9 @@ If you are not request to reset your paasword, please ignore this mail.
                       </tr>
                       <tr>
                         <td style="padding: 0 0 10px 0; font-size: 14px; line-height: 150%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">
-                          Thanks for choosing <b> share learner.</b>
+                          Thanks for choosing <b> connectify.</b>
                           <br>
-                          <br> We received a request to reset your Email account for your share learner account. 
+                          <br> We received a request to reset your Email account for your connectify account. 
                         </td>
                       </tr>
                       </tr>
@@ -774,7 +774,7 @@ If you are not request to reset your email, please ignore this mail.
               <tr>
                 <td style="padding: 24px 0 48px; font-size: 0px;">
                   <!--[if mso | IE]>      <table role="presentation" border="0" cellpadding="0" cellspacing="0">        <tr>          <td style="vertical-align:top;width:300px;">      <![endif]--><div class="outlook-group-fix" style="padding: 0 0 20px 0; vertical-align: top; display: inline-block; text-align: center; width:100%;">
-                    <span style="padding: 0; font-size: 11px; line-height: 15px; font-weight: normal; color:purple;">SHARE LEARNER<br/>Kolaghat,Purba Medinipur,West Bengal,India</span>
+                    <span style="padding: 0; font-size: 11px; line-height: 15px; font-weight: normal; color:purple;"><br/>Kolaghat,Purba Medinipur,West Bengal,India</span>
                   </div>
                   <!--[if mso | IE]>      </td></tr></table>      <![endif]-->
                 </td>
@@ -792,7 +792,7 @@ If you are not request to reset your email, please ignore this mail.
     default:
       subject = "Hello Learner";
       html = `
-    <p> Welcome to share learner! This is your anothe communication world</p>
+    <p> Welcome to connectify! This is your anothe communication world</p>
   `
       break;
   }
@@ -814,7 +814,7 @@ If you are not request to reset your email, please ignore this mail.
     
   const mailOptions = {
     from: {
-      name: "sharelearner",
+      name: "connectify",
       address: process.env.GMAIL_APP_USER
     },
     to: email,
