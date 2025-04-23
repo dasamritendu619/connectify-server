@@ -96,7 +96,7 @@ const sendMail = async function (mailType, email, fullName, OTP) {
         <td valign="top" align="center">
           <table class="container" width="600" cellspacing="0" cellpadding="0" border="0">
             <tbody>
-<img  style='width:90px; text-align: center; border-radius: 50%;'src='https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png' >
+<img  style='width:90px; text-align: center; border-radius: 50%;'src='https://res.cloudinary.com/dqufodszt/image/upload/v1745392511/connectify/pwa-192x192_h90iup.png' >
               <tr>
                 <td style="padding:8px 0 30px 0; text-align: center; font-size: 14px; color: #4C83EE;">
                   CONNECTIFY
@@ -162,8 +162,7 @@ const sendMail = async function (mailType, email, fullName, OTP) {
                       <tr>
                         <td style="font-size: 14px; line-height: 170%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">
                           Best regards, <br>
-                          <img  style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png
-'>   
+                          <img  style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1745392511/connectify/pwa-192x192_h90iup.png'>   
                         </td>
                       </tr>
                     </tbody>
@@ -174,7 +173,7 @@ const sendMail = async function (mailType, email, fullName, OTP) {
                 <td style="padding: 24px 0 48px; font-size: 0px;">
                        <table role="presentation" border="0" cellpadding="0" cellspacing="0">        <tr>          <td style="vertical-align:top;width:300px;">      <![endif]-->
                   <div class="outlook-group-fix" style="padding: 0 0 20px 0; vertical-align: top; display: inline-block; text-align: center; width:100%;">
-                    <span style="padding: 0; font-size: 11px; line-height: 15px; font-weight: normal; color:purple;">SHARE LERANER<br/>kolaghat,Purba Medinipur,West Bengal,India</span>
+                    <span style="padding: 0; font-size: 11px; line-height: 15px; font-weight: normal; color:purple;">CONNECTIFY<br/>kolaghat,Purba Medinipur,West Bengal,India</span>
                   </div>
                      </td></tr></table>      <![endif]-->
                 </td>
@@ -277,7 +276,7 @@ const sendMail = async function (mailType, email, fullName, OTP) {
         <td valign="top" align="center">
           <table class="container" width="600" cellspacing="0" cellpadding="0" border="0">
             <tbody>
-<img  style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png' >
+<img  style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1745392511/connectify/pwa-192x192_h90iup.png' >
               <tr>
                 <td style="padding:8px 0 30px 0; text-align: center; font-size: 14px; color: #4C83EE;">
                   CONNECTIFY
@@ -339,7 +338,7 @@ If you are not request to reset your paasword, please ignore this mail.
                       <tr>
                         <td style="font-size: 14px; line-height: 170%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">
                           Best regards, <br>
-                          <img  style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png'
+                          <img  style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1745392511/connectify/pwa-192x192_h90iup.png'
 >   
                         </td>
                       </tr>
@@ -351,7 +350,7 @@ If you are not request to reset your paasword, please ignore this mail.
                 <td style="padding: 24px 0 48px; font-size: 0px;">
                   <!--[if mso | IE]>      <table role="presentation" border="0" cellpadding="0" cellspacing="0">        <tr>          <td style="vertical-align:top;width:300px;">      <![endif]-->
                   <div class="outlook-group-fix" style="padding: 0 0 20px 0; vertical-align: top; display: inline-block; text-align: center; width:100%;">
-                    <span style="padding: 0; font-size: 11px; line-height: 15px; font-weight: normal; color:purple;">SHARE LERANER<br/>kolaghat,Purba Medinipur,West Bengal,India</span>
+                    <span style="padding: 0; font-size: 11px; line-height: 15px; font-weight: normal; color:purple;">CONNECTIFY<br/>kolaghat,Purba Medinipur,West Bengal,India</span>
                   </div>
                   <!--[if mso | IE]>      </td></tr></table>      <![endif]-->
                 </td>
@@ -454,7 +453,7 @@ If you are not request to reset your paasword, please ignore this mail.
         <td valign="top" align="center">
           <table class="container" width="600" cellspacing="0" cellpadding="0" border="0">
             <tbody>
-<img  style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png' >
+<img  style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1745392511/connectify/pwa-192x192_h90iup.png' >
               <tr>
                 <td style="padding:8px 0 30px 0; text-align: center; font-size: 14px; color: #4C83EE;">
                   CONNECTIFY
@@ -513,7 +512,7 @@ If you are not request to reset your paasword, please ignore this mail.
                       <tr>
                         <td style="font-size: 14px; line-height: 170%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">
                           Best regards, <br>
-                          <img  style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png'
+                          <img  style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1745392511/connectify/pwa-192x192_h90iup.png'
 >   
                         </td>
                       </tr>
@@ -525,7 +524,7 @@ If you are not request to reset your paasword, please ignore this mail.
                 <td style="padding: 24px 0 48px; font-size: 0px;">
                   <!--[if mso | IE]>      <table role="presentation" border="0" cellpadding="0" cellspacing="0">        <tr>          <td style="vertical-align:top;width:300px;">      <![endif]-->
                   <div class="outlook-group-fix" style="padding: 0 0 20px 0; vertical-align: top; display: inline-block; text-align: center; width:100%;">
-                    <span style="padding: 0; font-size: 11px; line-height: 15px; font-weight: normal; color:purple;">SHARE LERANER<br/>kolaghat,Purba Medinipur,West Bengal,India</span>
+                    <span style="padding: 0; font-size: 11px; line-height: 15px; font-weight: normal; color:purple;">CONNECTIFY<br/>kolaghat,Purba Medinipur,West Bengal,India</span>
                   </div>
                   <!--[if mso | IE]>      </td></tr></table>      <![endif]-->
                 </td>
@@ -629,8 +628,7 @@ If you are not request to reset your paasword, please ignore this mail.
                       <tr>
                         <td style="font-size: 14px; line-height: 170%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">
                           Best regards, <br>
-                          <img style='width:90px'src='https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png
-'>   
+                          <img style='width:90px'src='https://res.cloudinary.com/dqufodszt/image/upload/v1745392511/connectify/pwa-192x192_h90iup.png'>   
                         </td>
                       </tr>
                     </tbody>
@@ -641,7 +639,7 @@ If you are not request to reset your paasword, please ignore this mail.
                 <td style="padding: 24px 0 48px; font-size: 0px;">
                        <table role="presentation" border="0" cellpadding="0" cellspacing="0">        <tr>          <td style="vertical-align:top;width:300px;">      <![endif]-->
                   <div class="outlook-group-fix" style="padding: 0 0 20px 0; vertical-align: top; display: inline-block; text-align: center; width:100%;">
-                    <span style="padding: 0; font-size: 11px; line-height: 15px; font-weight: normal; color:purple;">SHARE LERANER<br/>kolaghat,Purba Medinipur,West Bengal,India</span>
+                    <span style="padding: 0; font-size: 11px; line-height: 15px; font-weight: normal; color:purple;">CONNECTIFY<br/>kolaghat,Purba Medinipur,West Bengal,India</span>
                   </div>
                      </td></tr></table>      <![endif]-->
                 </td>
@@ -704,7 +702,7 @@ If you are not request to reset your paasword, please ignore this mail.
         <td valign="top" align="center">
           <table class="container" width="600" cellspacing="0" cellpadding="0" border="0">
             <tbody>
-<img style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png'>
+<img style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1745392511/connectify/pwa-192x192_h90iup.png'>
               <tr>
                 <td style="padding:8px 0 30px 0; text-align: center; font-size: 14px; color: #4C83EE;">
                   CONNECTIFY
@@ -763,7 +761,7 @@ If you are not request to reset your email, please ignore this mail.
                       <tr>
                         <td style="font-size: 14px; line-height: 170%; font-weight: 400; color: #000000; letter-spacing: 0.01em;">
                           Best regards, <br>
-                          <img style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_1_u89enm.png'>
+                          <img style='width:90px; text-align: center; border-radius: 50%;' src='https://res.cloudinary.com/dqufodszt/image/upload/v1745392511/connectify/pwa-192x192_h90iup.png'>
    
                         </td>
                       </tr>

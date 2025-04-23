@@ -1,11 +1,11 @@
-# Share Learner
+# Connectify
 
-![ connectify](https://res.cloudinary.com/dqufodszt/image/upload/v1716363215/sharelerner/Main_c1nwzt.png)
+![ connectify](https://res.cloudinary.com/dqufodszt/image/upload/v1745392511/connectify/pwa-192x192_h90iup.png)
 
 It is an online platform where students can use to capture their work-based experiences and share these learning experiences with other students through text, photos, or videos. The focus should be to develop a platform that allows students to share their work experiences and projects with other younger students.
 
 ## Resources
-[Model Link](https://app.eraser.io/workspace/C92IKHTEWLTeBX3FzzcN)
+[Model Link](https://app.eraser.io/workspace/Q83VxSHVvWO5iekMPtFa)
 
 ## Features
 
@@ -131,8 +131,8 @@ before running this command make sure that you have git installed in your local 
 
 ## Contributors
 
-- [Kuntal Maity](https://github.com/kuntal-hub)
-- [Shuvadip Dian](https://github.com/shuvadipdian)
-- [Sayan Maity](https://github.com/Sayancemk)
+- [Soumi Maity](https://github.com/soumi-maity)
 - [Amritendu Das](https://github.com/dasamritendu619)
+- [Sampurna Chattopadhyay](https://github.com/sampurna)
+- [Tanmoy Pramanik](https://github.com/tanmoy-pramanik)
 

@@ -1,7 +1,7 @@
 {
   "name": "connectify",
   "version": "1.0.0",
-  "description": "This is an important project managed by 4 students of CEMK",
+  "description": "This is an final year project managed by Gr 37 students of CEMK",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
     "Share",
     "Learner"
   ],
-  "author": "Hackstreet Boy's",
+  "author": "Gr 37",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
